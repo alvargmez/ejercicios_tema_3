@@ -2,7 +2,7 @@ package segunda_parte;
 
 public class pruerba_ejercicio {
 
-    static void main(String[] args){
+    public static void main(String[] args){
 
         coche seat = new coche();
 
